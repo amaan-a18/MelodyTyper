@@ -15,7 +15,7 @@ def print_lyrics():
                 "Kol tere mainu", "aan de soni", 
                 "karaan* main kitne jatan O soni", 
                 "Dooron dooron main", ] 
-    delays = [2.0, 1.8, 2.1, 2.4, 1.7, 2.0, 2.0, 1.7, 2.3, 2.5] 
+    delays = [2.0, 1.8, 2.1, 2.4, 1.7, 2.0, 2.0, 1.7, 2.3, 2.2] 
     print("\n🎵 Now Playing - Dooron Dooron❤️‍🩹 \n") 
     time.sleep(1.5) 
     for i, line in enumerate(lyrics): 
